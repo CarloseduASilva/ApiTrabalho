@@ -102,5 +102,5 @@ app.get("/api/users", async (req, res) => {
   
 // Inicia o servidor
 app.listen(port, () => {
-  console.log(`API rodando`);
+  console.log(`API rodando cpivara`);
 });
